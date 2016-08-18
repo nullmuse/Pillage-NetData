@@ -9,20 +9,35 @@ Note: some commands may fail out -- this is normal, it is usually the result of 
 Pillage-NetData will retrieve the following data: 
 
 -If the computer is connected to a network 
+
 -Computer host name 
+
 -Network domain name 
+
 -Global IP properties 
+
 -If the computer can connect to the internet (by pinging Google) 
+
 -A list of active TCP and UDP Listeners
+
 -A list of active TCP connections, to include recently closed connections 
+
 -Detailed TCP and UDP network and packet statistics 
+
 -Detailed global IP statistics 
+
 -All network interfaces connected to the computer 
+
 -Detailed information, configuration and statistical information about each interface 
+
 -Gateway addresses assigned to each interface 
+
 -DNS servers assigned to each interface 
+
 -DHCP servers assigned to each interface 
+
 -WINS servers assigned to each interface 
+
 -In-memory routing table 
 
 
